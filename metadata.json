@@ -1,0 +1,5 @@
+{
+  "name": "Logistics Status Tracker",
+  "description": "Track logistics documentation, declaration forms, and customs statuses.",
+  "requestFramePermissions": []
+}
